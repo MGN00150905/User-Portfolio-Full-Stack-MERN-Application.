@@ -1,0 +1,43 @@
+.height {
+  height: 100%;
+}
+
+.marj {
+  margin-bottom:0;
+}
+.imgsize{
+  height: 5%;
+  width: 5%;
+}
+.imgsize2{
+  height: 45%;
+  width: 45%;
+  margin-left: 200px;
+}
+.imgsize3{
+  height: 7%;
+  width: 7%;
+}
+.greying{
+  background-color: #f4f6f9;
+}
+
+.center{
+margin-left: 35%;
+}
+.btn-pos{
+  margin-bottom: -50px;
+}
+.col{
+  color: #3b91f9;
+}
+.marge{
+  margin-left:42.5%;
+  margin-top: 2%;
+}
+.compWidth{
+  width: 200px;
+}
+.bHeight{
+  height: 50px;
+}
